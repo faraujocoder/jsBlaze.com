@@ -11,24 +11,18 @@
 
 
 # [@BlazeAuto_bot](https://t.me/suportecodeblaze)
-<img src="https://github.com/cleitonleonel/pyblaze/blob/master/blazeautobot.gif?raw=true" alt="BlazeAutoBot" width="600" height="400"/>
 
-# [PARA APOSTAR USE ESSE LINK](https://blaze.com/r/OPNoj6)
+# [PARA APOSTAR USE ESSE LINK](http://blaze.com/r/M5OrMJ)
 
-# [SALA DE SINAIS NO TELEGRAM](https://t.me/doubles_and_crashs_free)
+# [SALA DE SINAIS NO TELEGRAM](https://t.me/+o3W2tFrm0vBkYjIx)
 
 # Para ter acesso a api ou caso necessite de mais recursos entre em contato comigo por algum dos meus contatos disponíveis:
 </h4>
 
-# _Testar a API_:
-Para testar a api e verificar a sua documentação acesse [_BlazeAPI_](https://github.com/cleitonleonel/blaze-api)
 
-# Precisa de um bot para telegram? uma sala de sinais crashs ou doubles? visite: [probots](https://webtelegram.com.br/)
+# Precisa de um bot para telegram? uma sala de sinais crashs ou doubles? visite: [CodeBlaze](https://t.me/+o3W2tFrm0vBkYjIx)
 
-<img src="https://cdn-icons-png.flaticon.com/512/940/940794.png" alt="donation" width="200"/>
-
-
-Se não pode ou não deseja contribuir, peço que pelo menos dê uma ⭐ para o projeto, desde já agradeço a todos.
+Peço que pelo menos dê uma ⭐ para o projeto, desde já agradeço a todos.
 
 
 # Author
