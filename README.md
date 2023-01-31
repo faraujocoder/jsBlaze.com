@@ -10,7 +10,7 @@
 <p>Não perca mais tempo, se torne um membro da Sala de Sinais agora mesmo!</p>
 
 
-# [@BlazeAuto_bot](https://t.me/suportecodeblaze)
+# [@Code Blaze](https://t.me/suportecodeblaze)
 
 # [PARA APOSTAR USE ESSE LINK](http://blaze.com/r/M5OrMJ)
 
